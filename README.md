@@ -1,32 +1,30 @@
 # 👋 Hi, I'm Anish Patel
 
-🎓 Cybersecurity & Digital Forensics Student  
+🎓 First-year Cybersecurity & Digital Forensics Student  
 🔐 Interested in Network Security, DFIR & Ethical Hacking  
 
 ---
 
 ## 🧠 Skills & Learning
-- Network Security Basics
-- Linux Fundamentals
-- Digital Forensics
-- Cybersecurity Labs
+- Learning Network Security Basics  
+- Exploring Linux Fundamentals  
+- Introduction to Digital Forensics  
+- Practicing cybersecurity concepts in labs  
 
 ---
 
-## 📂 My Work
-Here are my academic projects and labs:
-
-- 🔹 Network Security Labs
-- 🔹 Digital Forensics Assignments
-- 🔹 Linux Practice
-- 🔹 Cybersecurity Projects
+## 📂 Current Focus
+As a beginner, I am currently:  
+- Learning cybersecurity and digital forensics concepts  
+- Practicing basic labs and exercises in my coursework  
+- Exploring tools like Wireshark, Autopsy, and Linux  
 
 ---
 
 ## 🎯 Goal
-To build strong practical skills in cybersecurity and digital forensics and become a security professional.
+To build strong practical skills in cybersecurity and digital forensics and grow into a competent security professional.  
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/anishpatel-cyber    
+- GitHub: https://github.com/anishpatel-cyber
