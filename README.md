@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish Patel
 
-<!--
-**anishpatel-cyber/anishpatel-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity & Digital Forensics Student  
+🔐 Interested in Network Security, DFIR & Ethical Hacking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Learning
+- Network Security Basics
+- Linux Fundamentals
+- Digital Forensics
+- Cybersecurity Labs
+
+---
+
+## 📂 My Work
+Here are my academic projects and labs:
+
+- 🔹 Network Security Labs
+- 🔹 Digital Forensics Assignments
+- 🔹 Linux Practice
+- 🔹 Cybersecurity Projects
+
+---
+
+## 🎯 Goal
+To build strong practical skills in cybersecurity and digital forensics and become a security professional.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/anishpatel-cyber    
