@@ -28,3 +28,5 @@ To build strong practical skills in cybersecurity and digital forensics and grow
 
 ## 📫 Contact
 - GitHub: https://github.com/anishpatel-cyber
+- LinkedIn: https://www.linkedin.com/in/anish-kumar-patel-234347382/
+- TryHackMe: https://tryhackme.com/p/rootxanish
