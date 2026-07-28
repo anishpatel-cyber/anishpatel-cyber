@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Location-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-8B5CF6?style=for-the-badge&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-10B981?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Forensics-00F5FF?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Forensics-00F5FF?style=for-the-badge&labelColor=1e279c"/>
 
 </div>
 
